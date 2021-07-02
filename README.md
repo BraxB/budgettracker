@@ -24,7 +24,7 @@ Through this project, I learned how to create a progressive web application with
 <a id='Installation'></a>
 
 Go to deployed link below. If using a browser like Chrome, a button in the URL bar should allow you to install the application to your device. 
-
+[deployed link](https://dry-castle-46891.herokuapp.com/)
 ## Usage
 
 <a id='Usage'></a>
